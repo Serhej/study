@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\sharp\треня\ConsВВ\ConsВВ\obj\Debug\ConsВВ.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\sharp\треня\ConsВВ\ConsВВ\obj\Debug\ConsВВ.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\sharp\треня\ConsВВ\ConsВВ\bin\Debug\ConsВВ.exe.config
+C:\Users\Alex\Desktop\sharp\треня\ConsВВ\ConsВВ\bin\Debug\ConsВВ.exe
+C:\Users\Alex\Desktop\sharp\треня\ConsВВ\ConsВВ\bin\Debug\ConsВВ.pdb
+C:\Users\Alex\Desktop\sharp\треня\ConsВВ\ConsВВ\obj\Debug\ConsВВ.exe
+C:\Users\Alex\Desktop\sharp\треня\ConsВВ\ConsВВ\obj\Debug\ConsВВ.pdb

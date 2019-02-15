@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\sharp\2\Con1\Con1\bin\Debug\Con1.exe.config
+C:\Users\Alex\Desktop\sharp\2\Con1\Con1\bin\Debug\Con1.exe
+C:\Users\Alex\Desktop\sharp\2\Con1\Con1\bin\Debug\Con1.pdb
+C:\Users\Alex\Desktop\sharp\2\Con1\Con1\obj\Debug\Con1.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\sharp\2\Con1\Con1\obj\Debug\Con1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\sharp\2\Con1\Con1\obj\Debug\Con1.exe
+C:\Users\Alex\Desktop\sharp\2\Con1\Con1\obj\Debug\Con1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\sharp\1\Consol1\Conso19\Conso19\bin\Debug\Conso19.exe.config
+C:\Users\Alex\Desktop\sharp\1\Consol1\Conso19\Conso19\bin\Debug\Conso19.exe
+C:\Users\Alex\Desktop\sharp\1\Consol1\Conso19\Conso19\bin\Debug\Conso19.pdb
+C:\Users\Alex\Desktop\sharp\1\Consol1\Conso19\Conso19\obj\Debug\Conso19.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\sharp\1\Consol1\Conso19\Conso19\obj\Debug\Conso19.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\sharp\1\Consol1\Conso19\Conso19\obj\Debug\Conso19.exe
+C:\Users\Alex\Desktop\sharp\1\Consol1\Conso19\Conso19\obj\Debug\Conso19.pdb

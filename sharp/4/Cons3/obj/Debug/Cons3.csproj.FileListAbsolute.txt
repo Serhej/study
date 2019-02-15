@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\sharp\3\Cons3\Cons3\bin\Debug\Cons3.exe.config
+C:\Users\Alex\Desktop\sharp\3\Cons3\Cons3\bin\Debug\Cons3.exe
+C:\Users\Alex\Desktop\sharp\3\Cons3\Cons3\bin\Debug\Cons3.pdb
+C:\Users\Alex\Desktop\sharp\3\Cons3\Cons3\obj\Debug\Cons3.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\sharp\3\Cons3\Cons3\obj\Debug\Cons3.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\sharp\3\Cons3\Cons3\obj\Debug\Cons3.exe
+C:\Users\Alex\Desktop\sharp\3\Cons3\Cons3\obj\Debug\Cons3.pdb
+C:\Users\Alex\Desktop\sharp\4\Cons3\bin\Debug\Cons3.exe.config
+C:\Users\Alex\Desktop\sharp\4\Cons3\bin\Debug\Cons3.exe
+C:\Users\Alex\Desktop\sharp\4\Cons3\bin\Debug\Cons3.pdb
+C:\Users\Alex\Desktop\sharp\4\Cons3\obj\Debug\Cons3.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\sharp\4\Cons3\obj\Debug\Cons3.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\sharp\4\Cons3\obj\Debug\Cons3.exe
+C:\Users\Alex\Desktop\sharp\4\Cons3\obj\Debug\Cons3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\sharp\1\Consol1\Console17\obj\Debug\Console17.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\sharp\1\Consol1\Console17\obj\Debug\Console17.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\sharp\1\Consol1\Console17\bin\Debug\Console17.exe.config
+C:\Users\Alex\Desktop\sharp\1\Consol1\Console17\bin\Debug\Console17.exe
+C:\Users\Alex\Desktop\sharp\1\Consol1\Console17\bin\Debug\Console17.pdb
+C:\Users\Alex\Desktop\sharp\1\Consol1\Console17\obj\Debug\Console17.exe
+C:\Users\Alex\Desktop\sharp\1\Consol1\Console17\obj\Debug\Console17.pdb

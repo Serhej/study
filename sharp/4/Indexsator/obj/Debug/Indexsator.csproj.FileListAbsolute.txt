@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\sharp\4\Indexsator\bin\Debug\Indexsator.exe.config
+C:\Users\Alex\Desktop\sharp\4\Indexsator\bin\Debug\Indexsator.exe
+C:\Users\Alex\Desktop\sharp\4\Indexsator\bin\Debug\Indexsator.pdb
+C:\Users\Alex\Desktop\sharp\4\Indexsator\obj\Debug\Indexsator.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\sharp\4\Indexsator\obj\Debug\Indexsator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\sharp\4\Indexsator\obj\Debug\Indexsator.exe
+C:\Users\Alex\Desktop\sharp\4\Indexsator\obj\Debug\Indexsator.pdb

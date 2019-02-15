@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\sharp\4\houme\bin\Debug\houme.exe.config
+C:\Users\Alex\Desktop\sharp\4\houme\bin\Debug\houme.exe
+C:\Users\Alex\Desktop\sharp\4\houme\bin\Debug\houme.pdb
+C:\Users\Alex\Desktop\sharp\4\houme\obj\Debug\houme.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\sharp\4\houme\obj\Debug\houme.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\sharp\4\houme\obj\Debug\houme.exe
+C:\Users\Alex\Desktop\sharp\4\houme\obj\Debug\houme.pdb

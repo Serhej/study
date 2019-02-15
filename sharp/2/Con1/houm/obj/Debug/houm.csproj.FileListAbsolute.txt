@@ -1,0 +1,7 @@
+C:\Users\Alex\Desktop\sharp\2\Con1\houm\bin\Debug\houm.exe.config
+C:\Users\Alex\Desktop\sharp\2\Con1\houm\bin\Debug\houm.exe
+C:\Users\Alex\Desktop\sharp\2\Con1\houm\bin\Debug\houm.pdb
+C:\Users\Alex\Desktop\sharp\2\Con1\houm\obj\Debug\houm.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\sharp\2\Con1\houm\obj\Debug\houm.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\sharp\2\Con1\houm\obj\Debug\houm.exe
+C:\Users\Alex\Desktop\sharp\2\Con1\houm\obj\Debug\houm.pdb

@@ -1,0 +1,11 @@
+C:\Users\Alex\Desktop\sharp\4\task522\bin\Debug\task522.exe.config
+C:\Users\Alex\Desktop\sharp\4\task522\bin\Debug\task522.exe
+C:\Users\Alex\Desktop\sharp\4\task522\bin\Debug\task522.pdb
+C:\Users\Alex\Desktop\sharp\4\task522\obj\Debug\task522.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\sharp\4\task522\obj\Debug\task522.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\sharp\4\task522\obj\Debug\task522.exe
+C:\Users\Alex\Desktop\sharp\4\task522\obj\Debug\task522.pdb
+C:\Users\Alex\Desktop\sharp\4\task522\bin\Debug\Cons3.exe
+C:\Users\Alex\Desktop\sharp\4\task522\bin\Debug\Cons3.pdb
+C:\Users\Alex\Desktop\sharp\4\task522\bin\Debug\Cons3.exe.config
+C:\Users\Alex\Desktop\sharp\4\task522\obj\Debug\task522.csproj.CopyComplete
